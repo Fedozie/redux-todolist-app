@@ -1,0 +1,42 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(144, 214, 255);;
+  height: 90vh;
+  border-radius: 5px;
+  padding-top: 10px;
+}
+
+body {
+  background-color: rgb(93, 196, 255);
+}
+
+input {
+  background: border-box;
+  color: black;
+  width: 250px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+button {
+  width: 7rem;
+  height: 2.5rem;
+  font-size: 1rem;
+  background: lightcoral;
+  color: black;
+  margin-top: 10px;
+  border-radius: 13px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0px 8px 17px -1px rgba(0,0,0,0.44);
+}
+
+.alert{
+  font-size: 1.5rem;
+}
